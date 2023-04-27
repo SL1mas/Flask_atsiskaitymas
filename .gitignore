@@ -1,5 +1,6 @@
 venv/
 pvz/
+app/
 
 # Ignore .env files
 .env
